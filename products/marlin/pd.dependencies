@@ -2,25 +2,25 @@
     {
         "target_path":  "device/google/marlin",
         "repository":   "android_device_google_marlin",
-        "remote":       "pdd",
-        "revision":     "ten"
+        "remote":       "wdd",
+        "revision":     "ten_ls3"
     },
     {
         "target_path":  "kernel/google/marlin",
         "repository":   "android_kernel_google_marlin",
-        "remote":       "pdd",
-        "revision":     "ten"
+        "remote":       "wdd",
+        "revision":     "ten_ls3"
     },
     {
         "target_path":  "prebuilts/clang/host/linux-x86/clang-latest",
-        "repository":   "Haseo97/Avalon-Clang-11.0.5",
-        "remote":       "github",
-        "revision":     "11.0.1"
+        "repository":   "wavedashdoc/Avalon-Clang-11.0.5",
+        "remote":       "wdd",
+        "revision":     "11.0.5"
     },
     {
         "target_path":  "vendor/google",
         "repository":   "android_vendor_google",
-        "remote":       "pdd",
-        "revision":     "ten"
+        "remote":       "wdd",
+        "revision":     "ten_ls3"
     }
 ]
