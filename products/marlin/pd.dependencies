@@ -2,8 +2,8 @@
     {
         "target_path":  "device/google/marlin",
         "repository":   "android_device_google_marlin",
-        "remote":       "pdd",
-        "revision":     "ten"
+        "remote":       "wdd",
+        "revision":     "ten_ls"
     },
     {
         "target_path":  "kernel/google/marlin",
