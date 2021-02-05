@@ -11,10 +11,10 @@
         "remote":       "wdd",
         "revision":     "ten_ls3"
     },
-    {
+     {
         "target_path":  "prebuilts/clang/host/linux-x86/clang-latest",
-        "repository":   "Avalon-Clang-11.0.5",
-        "remote":       "wdd",
+        "repository":   "Haseo97/Avalon-Clang-11.0.5",
+        "remote":       "github",
         "revision":     "11.0.5"
     },
     {
