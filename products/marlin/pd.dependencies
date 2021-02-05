@@ -13,7 +13,7 @@
     },
     {
         "target_path":  "prebuilts/clang/host/linux-x86/clang-latest",
-        "repository":   "wavedashdoc/Avalon-Clang-11.0.5",
+        "repository":   "Avalon-Clang-11.0.5",
         "remote":       "wdd",
         "revision":     "11.0.5"
     },
